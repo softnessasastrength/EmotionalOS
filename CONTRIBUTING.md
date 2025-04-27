@@ -1,3 +1,12 @@
-# Contributing
+# Contributing to EmotionalOS
 
-This is a living document. Contributions should honor the raw, real spirit of human survival and connection.
+Thank you for your interest in contributing!
+
+We believe in open-source emotional evolution.
+
+- Fork the project
+- Create a branch
+- Commit your improvements
+- Submit a pull request
+
+Always lead with compassion and authenticity.
