@@ -1,6 +1,3 @@
-# Let's save the updated README content into a .md file for easy paste
-
-updated_readme_content = """
 # 🌎 EmotionalOS
 
 ![EmotionalOS Banner](assets/README_Assets/emotionalos_banner.png)
