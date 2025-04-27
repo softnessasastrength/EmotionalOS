@@ -1,7 +1,5 @@
-# EmotionalOS v2.0
+# EmotionalOS
 
-EmotionalOS is an open-source philosophical operating system designed to help humans reclaim emotional authenticity, rebuild after trauma, and start inner revolutions. 
+> **The open-source operating system for emotional liberation.**
 
-Version 2.0 represents a major expansion — with HOW-TO guides, emotional kernels, and self-healing practices.
-
-MIT Licensed. Use it. Remix it. Live it.
+(Updated README from previous steps with Wiki and visuals linked.)
