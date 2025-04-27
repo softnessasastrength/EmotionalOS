@@ -1,15 +1,7 @@
-# EmotionalOS
+# EmotionalOS v2.0
 
-🌱 **EmotionalOS v2.0 is LIVE** — the first open-source operating system for the soul.
+EmotionalOS is an open-source philosophical operating system designed to help humans reclaim emotional authenticity, rebuild after trauma, and start inner revolutions. 
 
-> Presence over productivity. Compassion over conformity.  
-> Open-source. Heart-led. Fearless.
+Version 2.0 represents a major expansion — with HOW-TO guides, emotional kernels, and self-healing practices.
 
-📚 [Explore the Documentation](./docs/)
-
-License: MIT  
-Version: 2.0
-
----
-
-_"Presence is the only system requirement."_ 🌱
+MIT Licensed. Use it. Remix it. Live it.
