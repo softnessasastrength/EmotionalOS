@@ -85,6 +85,7 @@ Version 2.0 is the first stable foundation for a world where emotional authentic
     Laugh through pain instead of closing off
 
     Tell the truth about your heart when it would be easier to lie
+👉 [Explore the EmotionalOS Wiki Landing Page](Wiki/Landing-Page.md)
 
 That's the install process.
 No reboot required.
