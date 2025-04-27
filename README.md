@@ -7,4 +7,7 @@ All emotional survival manuals are located in the `/how-tos/` directory.
 
 Each file is a raw, real, and sacred guide to staying human.
 
+![EmotionalOS Badge](branding/emotionalos-badge.png)
+
+
 ---
