@@ -1,13 +1,15 @@
-# Emotional OS v1.0
+# EmotionalOS
 
-An open-source emotional operating system for surviving, healing, and rebuilding human connection.
+🌱 **EmotionalOS v2.0 is LIVE** — the first open-source operating system for the soul.
 
-## How-To Survival Guides
-All emotional survival manuals are located in the `/how-tos/` directory.
+> Presence over productivity. Compassion over conformity.  
+> Open-source. Heart-led. Fearless.
 
-Each file is a raw, real, and sacred guide to staying human.
+📚 [Explore the Documentation](./docs/)
 
-![EmotionalOS Badge](branding/emotionalos-badge.png)
-
+License: MIT  
+Version: 2.0
 
 ---
+
+_"Presence is the only system requirement."_ 🌱
