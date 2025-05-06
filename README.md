@@ -1,15 +1,29 @@
-# EmotionalOS: How-Tos Directory
+# EmotionalOS – Open Source Humanity
 
-This folder contains practical emotional system calls—short, powerful guides to help you navigate hard things with clarity, softness, and strength.
+Welcome to the living archive of my emotional evolution.  
+This is not therapy. This is **truth infrastructure**.
 
-## 📚 Table of Contents
+---
 
-- [Ask For What You Need](./how-to/ask-for-what-you-need.md)
-- [Be Honest Without Imploding](./how-to/be-honest-without-imploding.md)
-- [Begin Again](./how-to/begin-again.md)
-- [Crash And Not Die](./how-to/crash-and-not-die.md)
-- [Feel Fast And Slow](./how-to/feel-fast-and-slow.md)
-- [Have The Hard Conversation](./how-to/have-the-hard-conversation.md)
-- [Love People Who Are Scared Of Love](./how-to/love-people-who-are-scared-of-love.md)
-- [Set A Boundary](./how-to/set-a-boundary.md)
-- [Stop People Pleasing](./how-to/stop-people-pleasing.md)
+## 🔍 What is EmotionalOS?
+
+A personal philosophy and framework that treats vulnerability like version control.  
+Every vow, reflection, and field moment is committed to this repo as **proof of transformation**.
+
+## 📁 Folder Breakdown
+
+- `Vows/`: Sacred personal commitments.
+- `Manifestos/`: Emotional revolutions in markdown form.
+- `Checkpoints/`: Timed reflections and log entries.
+- `Mirror_Prompts/`: Questions to crack you open.
+- `How_To_Feel/`: Emotional walkthroughs.
+- `Unfiltered/`: Stream-of-consciousness dumps.
+- `CHANGELOG.md`: Living version history.
+
+## 📜 License
+
+MIT or softer. Use it, remix it, cry to it.  
+All I ask is that you live it with presence.
+
+#Tags  
+#emotionalOS #opensourcehumanity #truthframework #healinglog #forkablefeelings
