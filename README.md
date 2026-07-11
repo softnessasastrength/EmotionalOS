@@ -10,6 +10,12 @@ This is not therapy. This is **truth infrastructure**.
 A personal philosophy and framework that treats vulnerability like version control.  
 Every vow, reflection, and field moment is committed to this repo as **proof of transformation**.
 
+## 🤝 AI collaboration
+
+AI systems contributing to this archive are governed by [`AI/COLLABORATION-CONSTITUTION.md`](AI/COLLABORATION-CONSTITUTION.md). The Constitution protects human authority, authorship, emotional safety, privacy, disagreement, preservation, and independent review across multiple models.
+
+Contributor entry instructions live in [`AGENTS.md`](AGENTS.md).
+
 ## 📁 Folder Breakdown
 
 - `Vows/`: Sacred personal commitments.
